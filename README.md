@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-## These are my tech stacks 📚
+## These are My Tech Stacks 📚
 <p align="block">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
@@ -24,7 +24,7 @@
 </p>
 
 
-## This is who I aspire to be 😁
+## This is Who I Aspire to Be 😁
 ```python
 def check_daily_progress(is_consistent: bool, is_frustrated: bool) -> str:
     if is_consistent and not is_frustrated:
