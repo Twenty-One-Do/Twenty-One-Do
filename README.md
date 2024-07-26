@@ -55,3 +55,4 @@ kill_myself()
 
 ## Get in Touch 📡
 - 📧 Email: dnjseh8962@gmail.com
+- 🏠 Velog: [집중맞은 도둑력](https://velog.io/@dnjseh8962/series)
