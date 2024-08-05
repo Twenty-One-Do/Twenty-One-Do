@@ -23,25 +23,6 @@
   <img src="https://img.shields.io/badge/AI-00FF00?style=for-the-badge&logo=artificialintelligence&logoColor=white" alt="AI" />
 </p>
 
-## This is Who I Aspire to Be 😁
-```python
-def check_daily_progress(is_consistent: bool, is_frustrated: bool) -> str:
-    if is_consistent and not is_frustrated:
-        return "Success"
-    
-    return "Fail"
-
-while till_i_die:
-    result = check_daily_progress(is_consistent, is_frustrated)
-
-    if result == "Success":
-        success_count += 1
-    else:
-        break
-
-kill_myself()
-```
-
 ## What I'm Interested in 👀
 - 🐍 Django, DRF, Pytorch
 - 🤖 Machine Learning, Deep Learning, Computer Vision
