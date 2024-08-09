@@ -28,6 +28,8 @@
 - 🤖 Machine Learning, Deep Learning, Computer Vision
 
 ## My Goal Checklist ✔
+- 🤝 Become a Contributor to a Famous Repository
+- ✨ Create a Repository with Over 5,000 Stars
 - 💻 Gain over 5 years of experience as a developer
 - 👨‍💻 Become an MLOps
 - 🎉 Develop a personal website with 100 monthly users
