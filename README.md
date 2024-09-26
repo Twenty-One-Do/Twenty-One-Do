@@ -3,6 +3,7 @@
 ## These are My Tech Stacks 📚
 <p align="block">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/fastapi-009639?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
   <img src="https://img.shields.io/badge/Django%20framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django framework" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
