@@ -28,14 +28,6 @@
 - 🐍 Django, DRF, Pytorch
 - 🤖 Machine Learning, Deep Learning, Computer Vision
 
-## My Goal Checklist ✔
-- 🤝 Become a Contributor to a Famous Repository
-- ✨ Create a Repository with Over 5,000 Stars
-- 💻 Gain over 5 years of experience as a developer
-- 👨‍💻 Become an MLOps
-- 🎉 Develop a personal website with 100 monthly users
-- 🚗 Buy a Bentley
-
 ## Get in Touch 📡
 - 📧 Email: dnjseh8962@gmail.com
 - 🏠 Velog: [집중맞은 도둑력](https://velog.io/@dnjseh8962/series)
